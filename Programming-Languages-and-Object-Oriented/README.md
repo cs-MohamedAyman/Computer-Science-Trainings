@@ -1,8 +1,8 @@
 # Programming Languages and Object Oriented Training
 
-<img align="right" width="80" src="/repos-logos/object-oriented-programming.png"></img>
-<img align="right" width="80" src="/repos-logos/cpp.png"></img>
-<img align="right" width="80" src="/repos-logos/python.png"></img>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented-programming.png"></img>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img>
 <br><br><br><br><br>
 
 Programming Languages and Object Oriented Training for computer science students.
@@ -42,13 +42,13 @@ Programming Languages and Object Oriented Training for computer science students
 <td align=center width="15%"><h3>150<br>Projects<br>Tasks</h3></td>
         </tr>
         </tr>
-<td align=center width="10%"><img src="/repos-logos/youtube.png"              width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.png"              width="80%"></img></td>
 <td align=center width="15%"><h3>30<br>Courses</h3></td>
-<td align=center width="10%"><img src="/repos-logos/udemy.png"                width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.png"                width="80%"></img></td>
 <td align=center width="15%"><h3>30<br>Courses</h3></td>
-<td align=center width="10%"><img src="/repos-logos/coursera.png"             width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.png"             width="80%"></img></td>
 <td align=center width="15%"><h3>20<br>Courses</h3></td>
-<td align=center width="10%"><img src="/repos-logos/reference-textbooks.png"  width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.png"  width="80%"></img></td>
 <td align=center width="15%"><h3>20<br>Textbooks</h3></td>
         </tr>
     </tbody>

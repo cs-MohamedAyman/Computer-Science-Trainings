@@ -1,4 +1,4 @@
-<a href="/README.md"><img align="right" width="100" src="/repos-logos/computer-science-department.png"></img></a>
+<a href="/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.png"></img></a>
 <br>
 
 # Computer Science Trainings
@@ -7,14 +7,14 @@
     <tbody>
         <tr>
 <td align="center"><a href="/Fundamentals-of-Computer-Science/README.md">Fundamentals of Computer Science Training</a><br><br>
-<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="/repos-logos/probability-statistics.png"></img></a>
-<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="/repos-logos/mathematics.png"></img></a>
-<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="/repos-logos/fundamentals-of-computer-science.png"></img></a>
+<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/probability-statistics.png"></img></a>
+<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mathematics.png"></img></a>
+<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/fundamentals-of-computer-science.png"></img></a>
 </td>
 <td align="center"><a href="/Programming-Languages-and-Object-Oriented/README.md">Programming Languages and Object Oriented Training</a><br><br>
-<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="/repos-logos/object-oriented-programming.png"></img></a>
-<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="/repos-logos/cpp.png"></img></a>
-<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="/repos-logos/python.png"></img></a>
+<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/object-oriented-programming.png"></img></a>
+<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 </td>
         </tr>
     </tbody>
@@ -25,14 +25,14 @@
     <tbody>
         <tr>
 <td align="center"><a href="/Data-Structures-and-Algorithms/README.md">Data Structures and Algorithms Training</a><br><br>
-<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/algorithms-analysis.png"></img></a>
-<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/data-structures.png"></img></a>
-<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/discrete-mathematics.png"></img></a>
+<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/algorithms-analysis.png"></img></a>
+<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-structures.png"></img></a>
+<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/discrete-mathematics.png"></img></a>
 </td>
 <td align="center"><a href="/Operating-Systems-and-Parallel-Computing/README.md">Operating Systems and Parallel Computing Training</a><br><br>
-<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="/repos-logos/high-performance-computing.png"></img></a>
-<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="/repos-logos/parallel-computing.png"></img></a>
-<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="/repos-logos/operating-systems.png"></img></a>
+<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/high-performance-computing.png"></img></a>
+<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/parallel-computing.png"></img></a>
+<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operating-systems.png"></img></a>
 </td>
         </tr>
     </tbody>
@@ -43,14 +43,14 @@
     <tbody>
         <tr>
 <td align="center"><a href="/Advanced-Data-Structures-and-Algorithms/README.md">Advanced Data Structures and Algorithms Training</a><br><br>
-<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/computer-graphics.png"></img></a>
-<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/algorithms-analysis.png"></img></a>
-<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/data-structures.png"></img></a>
+<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-graphics.png"></img></a>
+<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/algorithms-analysis.png"></img></a>
+<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-structures.png"></img></a>
 </td>
 <td align="center"><a href="/Theory-of-Computation-and-Compiler-Design/README.md">Theory of Computation and Compiler Design Training</a><br><br>
-<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="/repos-logos/compiler-design.png"></img></a>
-<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="/repos-logos/theory-of-computation.png"></img></a>
-<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="/repos-logos/programming-languages-concepts.png"></img></a>
+<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/compiler-design.png"></img></a>
+<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/theory-of-computation.png"></img></a>
+<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/programming-languages-concepts.png"></img></a>
 </td>
         </tr>
     </tbody>

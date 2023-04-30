@@ -12,33 +12,33 @@ Programming Languages and Object Oriented Training for computer science students
 <table>
     <tbody>
         <tr>
-<td align=center width="10%"><img src="/repos-icons/clock.png"      width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/clock.png"      width="80%"></img></td>
 <td align=center width="15%"><h3>60<br>Hours</h3></td>
-<td align=center width="10%"><img src="/repos-icons/calendar.png"   width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/calendar.png"   width="80%"></img></td>
 <td align=center width="15%"><h3>6<br>Weeks</h3></td>
-<td align=center width="10%"><img src="/repos-icons/folder.png"     width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/folder.png"     width="80%"></img></td>
 <td align=center width="15%"><h3>3<br>Courses</h3></td>
-<td align=center width="10%"><img src="/repos-icons/clipboard.png"  width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/clipboard.png"  width="80%"></img></td>
 <td align=center width="15%"><h3>6<br>Modules</h3></td>
         </tr>
         </tr>
-<td align=center width="10%"><img src="/repos-icons/bookmark.png"   width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/bookmark.png"   width="80%"></img></td>
 <td align=center width="15%"><h3>30<br>Lectures</h3></td>
-<td align=center width="10%"><img src="/repos-icons/cardindex.png"  width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/cardindex.png"  width="80%"></img></td>
 <td align=center width="15%"><h3>180<br>Lessons</h3></td>
-<td align=center width="10%"><img src="/repos-icons/memo.png"       width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/memo.png"       width="80%"></img></td>
 <td align=center width="15%"><h3>60<br>Quizzes</h3></td>
-<td align=center width="10%"><img src="/repos-icons/paperclip.png"  width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/paperclip.png"  width="80%"></img></td>
 <td align=center width="15%"><h3>150<br>Practices</h3></td>
         </tr>
         </tr>
-<td align=center width="10%"><img src="/repos-icons/lightbulb.png"  width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/lightbulb.png"  width="80%"></img></td>
 <td align=center width="15%"><h3>60<br>Labs</h3></td>
-<td align=center width="10%"><img src="/repos-icons/label.png"      width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/label.png"      width="80%"></img></td>
 <td align=center width="15%"><h3>180<br>Labs<br>Tasks</h3></td>
-<td align=center width="10%"><img src="/repos-icons/gamepad.png"    width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/gamepad.png"    width="80%"></img></td>
 <td align=center width="15%"><h3>15<br>Projects</h3></td>
-<td align=center width="10%"><img src="/repos-icons/bookmark2.png"  width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/bookmark2.png"  width="80%"></img></td>
 <td align=center width="15%"><h3>150<br>Projects<br>Tasks</h3></td>
         </tr>
         </tr>
@@ -57,7 +57,7 @@ Programming Languages and Object Oriented Training for computer science students
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
-<img align="right" width="100" src="/repos-icons/agenda.png"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img>
 
 ## Table of Contents
   * [Lecture Notes](#Lecture-Notes)

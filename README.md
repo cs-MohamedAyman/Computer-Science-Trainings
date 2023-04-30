@@ -6,57 +6,57 @@
 <table>
     <tbody>
         <tr>
-<td align="center"><a href="/Fundamentals-of-Computer-Science-Training/README.md">Fundamentals of Computer Science Training</a><br><br>
-<a href="/Fundamentals-of-Computer-Science-Training/README.md"><img align="center" width="80" src="/repos-logos/probability-statistics.png"></img></a>
-<a href="/Fundamentals-of-Computer-Science-Training/README.md"><img align="center" width="80" src="/repos-logos/mathematics.png"></img></a>
-<a href="/Fundamentals-of-Computer-Science-Training/README.md"><img align="center" width="80" src="/repos-logos/fundamentals-of-computer-science.png"></img></a>
+<td align="center"><a href="/Fundamentals-of-Computer-Science/README.md">Fundamentals of Computer Science Training</a><br><br>
+<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="/repos-logos/probability-statistics.png"></img></a>
+<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="/repos-logos/mathematics.png"></img></a>
+<a href="/Fundamentals-of-Computer-Science/README.md"><img align="center" width="80" src="/repos-logos/fundamentals-of-computer-science.png"></img></a>
 </td>
-<td align="center"><a href="/Programming-Languages-and-Object-Oriented-Training/README.md">Programming Languages and Object Oriented Training</a><br><br>
-<a href="/Programming-Languages-and-Object-Oriented-Training/README.md"><img align="center" width="80" src="/repos-logos/object-oriented-programming.png"></img></a>
-<a href="/Programming-Languages-and-Object-Oriented-Training/README.md"><img align="center" width="80" src="/repos-logos/cpp.png"></img></a>
-<a href="/Programming-Languages-and-Object-Oriented-Training/README.md"><img align="center" width="80" src="/repos-logos/python.png"></img></a>
+<td align="center"><a href="/Programming-Languages-and-Object-Oriented/README.md">Programming Languages and Object Oriented Training</a><br><br>
+<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="/repos-logos/object-oriented-programming.png"></img></a>
+<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="/repos-logos/cpp.png"></img></a>
+<a href="/Programming-Languages-and-Object-Oriented/README.md"><img align="center" width="80" src="/repos-logos/python.png"></img></a>
 </td>
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Fundamentals-of-Computer-Science-Training/README.md"><img src="/logos/1.png"></img></a></td>
-<td align="center"><a href="/Programming-Languages-and-Object-Oriented-Training/README.md"><img src="/logos/2.png"></img></a></td>
+<td align="center"><a href="/Fundamentals-of-Computer-Science/README.md"><img src="/logos/1.png"></img></a></td>
+<td align="center"><a href="/Programming-Languages-and-Object-Oriented/README.md"><img src="/logos/2.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="/Data-Structures-and-Algorithms-Training/README.md">Data Structures and Algorithms Training</a><br><br>
-<a href="/Data-Structures-and-Algorithms-Training/README.md"><img align="center" width="80" src="/repos-logos/algorithms-analysis.png"></img></a>
-<a href="/Data-Structures-and-Algorithms-Training/README.md"><img align="center" width="80" src="/repos-logos/data-structures.png"></img></a>
-<a href="/Data-Structures-and-Algorithms-Training/README.md"><img align="center" width="80" src="/repos-logos/discrete-mathematics.png"></img></a>
+<td align="center"><a href="/Data-Structures-and-Algorithms/README.md">Data Structures and Algorithms Training</a><br><br>
+<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/algorithms-analysis.png"></img></a>
+<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/data-structures.png"></img></a>
+<a href="/Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/discrete-mathematics.png"></img></a>
 </td>
-<td align="center"><a href="/Operating-Systems-and-Parallel-Computing-Training/README.md">Operating Systems and Parallel Computing Training</a><br><br>
-<a href="/Operating-Systems-and-Parallel-Computing-Training/README.md"><img align="center" width="80" src="/repos-logos/high-performance-computing.png"></img></a>
-<a href="/Operating-Systems-and-Parallel-Computing-Training/README.md"><img align="center" width="80" src="/repos-logos/parallel-computing.png"></img></a>
-<a href="/Operating-Systems-and-Parallel-Computing-Training/README.md"><img align="center" width="80" src="/repos-logos/operating-systems.png"></img></a>
+<td align="center"><a href="/Operating-Systems-and-Parallel-Computing/README.md">Operating Systems and Parallel Computing Training</a><br><br>
+<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="/repos-logos/high-performance-computing.png"></img></a>
+<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="/repos-logos/parallel-computing.png"></img></a>
+<a href="/Operating-Systems-and-Parallel-Computing/README.md"><img align="center" width="80" src="/repos-logos/operating-systems.png"></img></a>
 </td>
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Data-Structures-and-Algorithms-Training/README.md"><img src="/logos/3.png"></img></a></td>
-<td align="center"><a href="/Operating-Systems-and-Parallel-Computing-Training/README.md"><img src="/logos/4.png"></img></a></td>
+<td align="center"><a href="/Data-Structures-and-Algorithms/README.md"><img src="/logos/3.png"></img></a></td>
+<td align="center"><a href="/Operating-Systems-and-Parallel-Computing/README.md"><img src="/logos/4.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="/Advanced-Data-Structures-and-Algorithms-Training/README.md">Advanced Data Structures and Algorithms Training</a><br><br>
-<a href="/Advanced-Data-Structures-and-Algorithms-Training/README.md"><img align="center" width="80" src="/repos-logos/computer-graphics.png"></img></a>
-<a href="/Advanced-Data-Structures-and-Algorithms-Training/README.md"><img align="center" width="80" src="/repos-logos/algorithms-analysis.png"></img></a>
-<a href="/Advanced-Data-Structures-and-Algorithms-Training/README.md"><img align="center" width="80" src="/repos-logos/data-structures.png"></img></a>
+<td align="center"><a href="/Advanced-Data-Structures-and-Algorithms/README.md">Advanced Data Structures and Algorithms Training</a><br><br>
+<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/computer-graphics.png"></img></a>
+<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/algorithms-analysis.png"></img></a>
+<a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img align="center" width="80" src="/repos-logos/data-structures.png"></img></a>
 </td>
-<td align="center"><a href="/Theory-of-Computation-and-Compiler-Design-Training/README.md">Theory of Computation and Compiler Design Training</a><br><br>
-<a href="/Theory-of-Computation-and-Compiler-Design-Training/README.md"><img align="center" width="80" src="/repos-logos/compiler-design.png"></img></a>
-<a href="/Theory-of-Computation-and-Compiler-Design-Training/README.md"><img align="center" width="80" src="/repos-logos/theory-of-computation.png"></img></a>
-<a href="/Theory-of-Computation-and-Compiler-Design-Training/README.md"><img align="center" width="80" src="/repos-logos/programming-languages-concepts.png"></img></a>
+<td align="center"><a href="/Theory-of-Computation-and-Compiler-Design/README.md">Theory of Computation and Compiler Design Training</a><br><br>
+<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="/repos-logos/compiler-design.png"></img></a>
+<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="/repos-logos/theory-of-computation.png"></img></a>
+<a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img align="center" width="80" src="/repos-logos/programming-languages-concepts.png"></img></a>
 </td>
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Advanced-Data-Structures-and-Algorithms-Training/README.md"><img src="/logos/5.png"></img></a></td>
-<td align="center"><a href="/Theory-of-Computation-and-Compiler-Design-Training/README.md"><img src="/logos/6.png"></img></a></td>
+<td align="center"><a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img src="/logos/5.png"></img></a></td>
+<td align="center"><a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img src="/logos/6.png"></img></a></td>
     </tbody>
 </table>
 

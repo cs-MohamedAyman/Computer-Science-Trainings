@@ -19,8 +19,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Fundamentals-of-Computer-Science/README.md"><img src="/logos/1.png"></img></a></td>
-<td align="center"><a href="/Programming-Languages-and-Object-Oriented/README.md"><img src="/logos/2.png"></img></a></td>
+<td align="center"><a href="/Fundamentals-of-Computer-Science/README.md">         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/1-1.png"></img></a></td>
+<td align="center"><a href="/Programming-Languages-and-Object-Oriented/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/1-2.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -37,8 +37,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Data-Structures-and-Algorithms/README.md"><img src="/logos/3.png"></img></a></td>
-<td align="center"><a href="/Operating-Systems-and-Parallel-Computing/README.md"><img src="/logos/4.png"></img></a></td>
+<td align="center"><a href="/Data-Structures-and-Algorithms/README.md">          <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/1-3.png"></img></a></td>
+<td align="center"><a href="/Operating-Systems-and-Parallel-Computing/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/1-4.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -55,8 +55,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Advanced-Data-Structures-and-Algorithms/README.md"><img src="/logos/5.png"></img></a></td>
-<td align="center"><a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img src="/logos/6.png"></img></a></td>
+<td align="center"><a href="/Advanced-Data-Structures-and-Algorithms/README.md">  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/1-5.png"></img></a></td>
+<td align="center"><a href="/Theory-of-Computation-and-Compiler-Design/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/1-6.png"></img></a></td>
     </tbody>
 </table>
 

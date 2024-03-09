@@ -32,17 +32,3 @@ Advanced Data Structures and Algorithms Training for computer science students.
 
 ## [`Udemy Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udemy-courses/computer-science/README.md)
 
-<br>
-<a href="https://github.com/cs-MohamedAyman/problem-solving-training/blob/master/level-3/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/problem-solving-training.png"></img></a>
-
-## [`Problem Solving Training`](https://github.com/cs-MohamedAyman/problem-solving-training/blob/master/level-3/README.md)
-
-<br>
-<a href="https://github.com/cs-MohamedAyman/educational-projects/blob/master/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/educational-projects.png"></img></a>
-
-## [`Educational Projects`](https://github.com/cs-MohamedAyman/educational-projects/blob/master/computer-science/README.md)
-
-<br>
-<a href="https://github.com/cs-MohamedAyman/job-interviews/blob/master/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/job-interviews.png"></img></a>
-
-## [`Job Interviews`](https://github.com/cs-MohamedAyman/job-interviews/blob/master/computer-science/README.md)

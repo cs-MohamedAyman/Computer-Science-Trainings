@@ -46,17 +46,17 @@
 <a href="/operating-systems-and-parallel-computing.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/parallel-computing.png"></img></a>
 <a href="/operating-systems-and-parallel-computing.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/high-performance-computing.png"></img></a>
 </td>
-<td align="center"><a href="/version-control-system-and-automation.md">Version Control System and Automation Training</a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/README.md">Version Control System and Automation Training</a>
 <br><br>
-<a href="/version-control-system-and-automation.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/git.png"></img></a>
-<a href="/version-control-system-and-automation.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cmake.png"></img></a>
-<a href="/version-control-system-and-automation.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/conan.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/git.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cmake.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/conan.png"></img></a>
 </td>
         </tr>
     </tbody>
     <tbody>
 <td align="center"><a href="/operating-systems-and-parallel-computing.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-5.png"></img></a></td>
-<td align="center"><a href="/version-control-system-and-automation.md">   <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-6.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/README.md">   <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-6.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>

@@ -60,10 +60,10 @@
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="/advanced-data-structures-and-algorithms.md">Advanced Data Structures and Algorithms Training</a><br><br>
-<a href="/advanced-data-structures-and-algorithms.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-structures.png"></img></a>
-<a href="/advanced-data-structures-and-algorithms.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/algorithms-analysis.png"></img></a>
-<a href="/advanced-data-structures-and-algorithms.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/computer-graphics.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms/blob/master/README.md">Advanced Data Structures and Algorithms Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-structures.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/algorithms-analysis.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/computer-graphics.png"></img></a>
 </td>
 <td align="center"><a href="/theory-of-computation-and-compiler-design.md">Theory of Computation and Compiler Design Training</a><br><br>
 <a href="/theory-of-computation-and-compiler-design.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/programming-languages-concepts.png"></img></a>
@@ -73,7 +73,7 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/advanced-data-structures-and-algorithms.md">  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-7.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms/blob/master/README.md">  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-7.png"></img></a></td>
 <td align="center"><a href="/theory-of-computation-and-compiler-design.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-8.png"></img></a></td>
     </tbody>
 </table>

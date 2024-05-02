@@ -28,16 +28,16 @@
 <a href="/java-csharp-programming-languages.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/csharp.png"></img></a>
 <a href="/java-csharp-programming-languages.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/object-oriented-programming.png"></img></a>
 </td>
-<td align="center"><a href="/data-structures-and-algorithms.md">Data Structures and Algorithms Training</a><br><br>
-<a href="/data-structures-and-algorithms.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/discrete-mathematics.png"></img></a>
-<a href="/data-structures-and-algorithms.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-structures.png"></img></a>
-<a href="/data-structures-and-algorithms.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/algorithms-analysis.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md">Data Structures and Algorithms Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/discrete-mathematics.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-structures.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/algorithms-analysis.png"></img></a>
 </td>
         </tr>
     </tbody>
     <tbody>
 <td align="center"><a href="/java-csharp-programming-languages.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-3.png"></img></a></td>
-<td align="center"><a href="/data-structures-and-algorithms.md">   <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-4.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms/blob/master/README.md">   <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/1-4.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>

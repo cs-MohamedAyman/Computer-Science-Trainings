@@ -11,7 +11,7 @@
 <th width="270px">Traning Logo</th>
 <th width="270px">Traning Name</th>
 <th width="360px">Course Names</th>
-<th width="30px">Hrs <br> per Course</th>
+<th width="30px">Hrs</th>
         </tr>
     </thead>
     <tbody>
@@ -28,7 +28,7 @@
     <a href="/fundamentals-of-computer-science.md">Fundamentals of Computer Science Traning</a>
 </td>
 <td align="left">Fundamentals of Computer Science</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Calculus and Linear Algebra</td>
@@ -49,7 +49,7 @@
     <a href="/cpp-python-programming-languages.md">C++, Python Programming Languages Training</a>
 </td>
 <td align="left">CPP Programming Language</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Python Programming Language</td>
@@ -70,7 +70,7 @@
     <a href="/java-csharp-programming-languages.md">Java, C# Programming Languages Training</a>
 </td>
 <td align="left">Java Programming Language</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">C# Programming Language</td>
@@ -91,7 +91,7 @@
     <a href="/data-structures-and-algorithms.md">Data Structures and Algorithms Training</a>
 </td>
 <td align="left">Discrete Mathematics</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Data Structures</td>
@@ -112,7 +112,7 @@
     <a href="/operating-systems-and-parallel-computing.md">Operating Systems and Parallel Computing Training</a>
 </td>
 <td align="left">Operating Systems</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Concurrency and Parallel Computing</td>
@@ -133,7 +133,7 @@
     <a href="/version-control-system-and-automation.md">Version Control System and Automation Training</a>
 </td>
 <td align="left">Version Control System</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Build Automation</td>
@@ -154,7 +154,7 @@
     <a href="/advanced-data-structures-and-algorithms.md">Advanced Data Structures and Algorithms Training</a>
 </td>
 <td align="left">Advanced Data Structures</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Advanced Algorithms Analysis and Design</td>
@@ -175,7 +175,7 @@
     <a href="/theory-of-computation-and-compiler-design.md">Theory of Computation and Compiler Design Training</a>
 </td>
 <td align="left">Programming Languages Concepts</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Theory of Computation</td>

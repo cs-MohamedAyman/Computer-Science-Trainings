@@ -31,19 +31,19 @@ Version Control System and Automation Training for computer science students.
 <br><br><br><br>
 
 
-## Additional eLearning Platforms Resources:
+## Additional eLearning Platform Resources Resources:
 
 <br>
-<a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/youtube-playlists/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/youtube.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/eLearning-platform-resources/blob/master/youtube-playlists/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/youtube.png"></img></a>
 
-## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/youtube-playlists/computer-science.md)
-
-<br>
-<a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udemy-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/udemy.png"></img></a>
-
-## [`Udemy Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udemy-courses/computer-science.md)
+## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/eLearning-platform-resources/blob/master/youtube-playlists/computer-science.md)
 
 <br>
-<a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udacity-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/udacity.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/eLearning-platform-resources/blob/master/udemy-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/udemy.png"></img></a>
 
-## [`Udacity Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udacity-courses/computer-science.md)
+## [`Udemy Courses`](https://github.com/cs-MohamedAyman/eLearning-platform-resources/blob/master/udemy-courses/computer-science.md)
+
+<br>
+<a href="https://github.com/cs-MohamedAyman/eLearning-platform-resources/blob/master/udacity-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/udacity.png"></img></a>
+
+## [`Udacity Courses`](https://github.com/cs-MohamedAyman/eLearning-platform-resources/blob/master/udacity-courses/computer-science.md)
